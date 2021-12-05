@@ -82,9 +82,4 @@ playBingo(input)
 # Part Two:
 # figure out which board will win last and choose that one.
 
-# the second board is the last to win, which happens after 13 is eventually called and its middle column is completely marked. If you were to keep playing until this point, the second board would have a sum of unmarked numbers equal to 148 for a final score of 148 * 13 = 1924.
-
-# 3576 too high
-
 # Part Two solution:
-# calculateLifeSupport(input)
